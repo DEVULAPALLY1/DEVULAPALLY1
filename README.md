@@ -117,7 +117,7 @@ I'm currently focused on **building, deploying, breaking, troubleshooting, and l
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DEVULAPALLY1&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DEVULAPALLY1&theme=github_dark" />
 
 </p>
 
