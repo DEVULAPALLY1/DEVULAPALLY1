@@ -107,7 +107,7 @@ Linux → Git → AWS → Docker → CI/CD
              Monitoring & Observability
 ```
 
-There is a lot more ahead.
+There is a lot more ahead to Explore.
 
 I'm currently focused on **building, deploying, breaking, troubleshooting, and learning**.
 
