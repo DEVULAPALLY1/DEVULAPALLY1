@@ -65,7 +65,7 @@ I'm continuously learning new technologies and expanding my stack.
 
 ### Hoster Clone
 
-A web project that I built and deployed, gaining practical experience with **hosting, deployment and troubleshooting**.
+A web project that I Forked by Peer and deployed Via using CI/CD Method, gaining practical experience with **hosting, deployment and troubleshooting**.
 
 ### Online Gambling Awareness Website
 
