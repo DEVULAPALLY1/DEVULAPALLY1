@@ -4,7 +4,7 @@
 
 > **Build → Deploy → Troubleshoot → Understand → Improve**
 
-I'm **Sai**, a 2nd-year B.Tech student at HITAM, currently working toward becoming a **DevOps / Cloud Engineer**.
+I'm **Sai**, a 3nd-year B.Tech student at HITAM, currently working toward becoming a **DevOps / Cloud Engineer**.
 
 I have a strong interest in understanding **how systems actually work**, troubleshooting problems, and finding unique technical approaches to solve them.
 
