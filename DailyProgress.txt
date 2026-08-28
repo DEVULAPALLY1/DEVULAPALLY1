@@ -5,4 +5,16 @@ i have learned basics of maven , purpose of maven , advantages and etc
 
 level -- introduction 
 
-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+28 Aug 2026
+
+
+Installed Moblie Termux in andriod phone , installed git,  performed first commit in the andriod phone through ,  
+
+and more more 
+
+
+
+
+
+-----------------------------------------------------------------------------------------
