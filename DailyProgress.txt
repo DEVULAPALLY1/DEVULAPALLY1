@@ -33,4 +33,19 @@ Learned about:
 
 Level -- Introduction
 
+---------------------------------------------------------------------------------------
+30 Aug 2026
+
+
+Today I learned about Apache Tomcat.
+
+Learned about:
+- Installation of Apache Tomcat
+- Basic configuration of Apache Tomcat
+- Understanding the Tomcat directory structure
+- Starting and stopping the Tomcat server
+- Basic server configuration
+
+Level -- Introduction
+
 ----------------------------------------------------------------------------------------
