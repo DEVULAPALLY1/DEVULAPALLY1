@@ -49,3 +49,12 @@ Learned about:
 Level -- Introduction
 
 ----------------------------------------------------------------------------------------
+
+01 SEP 2026 
+
+
+Today I learned about Jenkins basics 
+
+-- installing, running port number , commands and etc 
+
+------------------------------------------------------------------------------------------
