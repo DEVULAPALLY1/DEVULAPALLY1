@@ -57,4 +57,11 @@ Today I learned about Jenkins basics
 
 -- installing, running port number , commands and etc 
 
-------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+02 SEP 2026
+
+
+Today I performed the basic Maven commands and also learned the Jenkins Pipeline syntax.
+
+
+--------------------------------------------------------
