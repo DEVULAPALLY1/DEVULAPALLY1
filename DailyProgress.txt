@@ -65,3 +65,8 @@ Today I performed the basic Maven commands and also learned the Jenkins Pipeline
 
 
 --------------------------------------------------------
+03 SEP 2026 
+
+Today i leanrned how to lauch the static website using jenkins pipeline 
+
+------------------------------------------------------------------------------
