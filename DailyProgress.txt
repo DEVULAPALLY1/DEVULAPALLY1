@@ -70,3 +70,6 @@ Today I performed the basic Maven commands and also learned the Jenkins Pipeline
 Today i leanrned how to lauch the static website using jenkins pipeline 
 
 ------------------------------------------------------------------------------
+04&05 SEP 2026
+
+Today i performed the CI/CD , with jenkins and tomcat using Freestyle project type 
