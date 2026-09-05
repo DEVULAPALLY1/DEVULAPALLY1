@@ -1,0 +1,3 @@
+05 SEP 2026
+Problem: Jenkins build failed after successful deployment due to old Tomcat deployment plugin.
+Solution: Removed the old Deploy war/ear to a container post-build action and used curl to deploy the WAR to Tomcat.
