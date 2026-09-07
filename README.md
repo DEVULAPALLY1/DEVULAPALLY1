@@ -4,7 +4,7 @@
 
 > **Build → Deploy → Troubleshoot → Understand → Improve**
 
-I'm **Sai**, a 3nd-year B.Tech student at HITAM, currently working toward becoming a **DevOps / Cloud Engineer**.
+I'm **Sai Vikas**, a 3nd-year B.Tech student at HITAM, currently working toward becoming a **DevOps / Cloud Engineer / Linux Admin**.
 
 I have a strong interest in understanding **how systems actually work**, troubleshooting problems, and finding unique technical approaches to solve them.
 
@@ -17,7 +17,7 @@ I have a strong interest in understanding **how systems actually work**, trouble
 * AWS — Intermediate
 * Linux — Intermediate
 * Docker
-* CI/CD
+* CI/CD - Intermediate
 * Infrastructure as Code
 * Cloud & deployment workflows
 * Monitoring & observability
