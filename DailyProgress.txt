@@ -72,4 +72,8 @@ Today i leanrned how to lauch the static website using jenkins pipeline
 ------------------------------------------------------------------------------
 04&05 SEP 2026
 
-Today i performed the CI/CD , with jenkins and tomcat using Freestyle project type 
+Today i performed the CI/CD , with jenkins and tomcat using Freestyle project type
+-------------------------------------------------------------------------------------
+07 SEP 2026
+
+Today i performed the CI/CD with jenkins and tomcat using pipeline  , using pipeline code i perfromed the CI/CD operations 
